@@ -1,0 +1,8 @@
+Installation:
+
+    git clone https://github.com/tima/dotfiles.git ~/.vim
+    
+Creat symlinks:
+
+    ln -s ~/.vim/vimrc ~/.vimrc
+
